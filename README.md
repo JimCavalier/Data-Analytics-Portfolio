@@ -1,5 +1,5 @@
 # Data-Analytics-Portfolio
 Welcome!
-This is a repository of my Data Analysis projects, with emphasis on the use of Excel, SQL, Python, and Tableau.
+This is a repository of my Data Analysis projects, with emphasis on the use of Excel, SQL, Python, Power BI, and Tableau.
 
 Files to follow.
