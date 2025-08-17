@@ -1,4 +1,4 @@
-# Data Analytics Portfoolio
+# Data Analytics Portfolio
 ## - Jim Cavalier
 
 Welcome!
