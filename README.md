@@ -1,4 +1,6 @@
-# Jim Cavalier Data Analytics Portfoolio
+# Data Analytics Portfoolio
+# - Jim Cavalier
+
 Welcome!
 This is a repository of my Data Analysis projects, with emphasis on the use of Excel, SQL, Python, Power BI, and Tableau.
 
